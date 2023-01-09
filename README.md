@@ -21,5 +21,5 @@ En este se lleva acabo un scraping de la pagina Wikidex, de la cual se extraera 
 * Velocidad Maximo
 * Velocidad Minimo
 
-Todos estos datos se recopilan de la pagina [Wikidex](https://www.wikidex.net/wiki/Lista_de_Pok%C3%A9mon_seg%C3%BAn_la_Pok%C3%A9dex_de_Paldea/) la cual nos proporciona la informacion, no se comprueba su veracidad y unicamente son para la demostracion del ejercicio de Web Scraping.
+Todos estos datos se recopilan de la pagina [Wikidex](https://www.wikidex.net/wiki/Lista_de_Pok%C3%A9mon_seg%C3%BAn_la_Pok%C3%A9dex_de_Paldea) la cual nos proporciona la informacion, no se comprueba su veracidad y unicamente son para la demostracion del ejercicio de Web Scraping.
 
