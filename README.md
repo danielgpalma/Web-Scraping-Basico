@@ -1,7 +1,7 @@
 # Web Scraping Basico
 
 Este repositorio se realiza con la finalidad de mostrar un ejemplo de como hacer web scraping con Xpath.
-En este se lleva acabo un scraping de la pagina Wikidex, de la cual se extraera informacion de los Pokemons existentes en la generacion 9 del nuevo juego de Pokemon Escarlata/Purpura.
+En este se lleva acabo un scraping de la pagina Wikidex, de la cual se extraera informacion de los Pokemons existentes en la generacion 9 del nuevo juego de Nintendo Pokemon Escarlata/Purpura.
 
 ## Informacion a Extraer
 
