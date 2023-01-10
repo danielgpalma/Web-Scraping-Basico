@@ -25,6 +25,6 @@ Todos estos datos se recopilan de la pagina [Wikidex](https://www.wikidex.net/wi
 
 ## Resultados
 
-Se crea un dataframe con la libreria pandas, el cual posteriormente se exportara a un .csv en el cual se encontraran los datos ordenados del Pokemon numero 1 al 514 y en las columnas se encontraran los datos mencionados anteriormente.
+Con la libreria de pandas se maneja la informacion para crear un archivo .csv en el cual se encontraran los datos ordenados del Pokemon numero 1 al 514 y en las columnas se encontraran los datos mencionados anteriormente.
 
 No se lleva a cabo la tarea de preprocesamiento del .csv por lo cual puede incluir corchetes, saltos de linea e informacion adicional.
